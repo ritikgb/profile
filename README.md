@@ -86,9 +86,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://drive.google.com/drive/folders/1LkG1rw8EUJniMbFz2R2-9XgxI1vRos2-"  />
-</div>
-
-###
